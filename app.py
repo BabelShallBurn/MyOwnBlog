@@ -67,11 +67,12 @@ def write_file(post_list:list) -> None:
     with open(JSON_PATH, 'w') as f:
         json.dump(post_list, f, indent=4)
 
-def fetch_post_by_id(post_id: int) -> dict:
+def fetch_post_by_id(post_id: int):
     blog_posts = open_file()
     for post in blog_posts:
         if post['id'] == post_id:
             return post
+    return None
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=5001, debug=True)
