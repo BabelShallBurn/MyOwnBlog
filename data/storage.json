@@ -1,20 +1,20 @@
 [
     {
-        "id": 1,
-        "author": "Kerstin",
-        "title": "Tag1234",
-        "content": "Ich brauche mehr Schokolade"
+        "id": 4,
+        "author": "Franz",
+        "title": "Joghurt",
+        "content": "Ich mag Joghurt"
     },
     {
         "id": 2,
-        "author": "Eric Dr\u00e4gerdt",
-        "title": "Ich brauche Steak!",
-        "content": "Wo ist das beste Steakrestaurant?"
+        "author": "Heike",
+        "title": "Beste Surfspots",
+        "content": "Dies sind die besten Surfspots"
     },
     {
         "id": 3,
-        "author": "Leopold",
-        "title": "Mehr Lego",
-        "content": "Ich will mehr Lego und Gummib\u00e4rchen"
+        "author": "R\u00fcdiger",
+        "title": "How to train a Dackel",
+        "content": "SO wird ein Dackel trainiert"
     }
 ]
