@@ -19,4 +19,4 @@ MyOwnBlog is a simple blogging platform built with Python. It allows users to cr
     ```bash
     python app.py
     ```
-4. Open your browser and navigate to `http://localhost:5001` to start using MyOwnBlog.
+4. Open your browser and navigate to `http://localhost:5000` to start using MyOwnBlog.
