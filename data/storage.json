@@ -1,20 +1,20 @@
 [
     {
-        "id": 4,
-        "author": "Franz",
-        "title": "Joghurt",
-        "content": "Ich mag Joghurt"
+        "id": 1,
+        "author": "Harald",
+        "title": "Oktoberfest!",
+        "content": "Ich freue mich schon das ganze Jahr"
     },
     {
         "id": 2,
-        "author": "Heike",
-        "title": "Beste Surfspots",
-        "content": "Dies sind die besten Surfspots"
+        "author": "Claudia",
+        "title": "Das beste Steakhaus",
+        "content": "hallo"
     },
     {
         "id": 3,
-        "author": "R\u00fcdiger",
-        "title": "How to train a Dackel",
-        "content": "SO wird ein Dackel trainiert"
+        "author": "Hilde",
+        "title": "Title",
+        "content": "radom textext"
     }
 ]
