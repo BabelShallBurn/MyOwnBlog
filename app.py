@@ -18,8 +18,7 @@ def hello_world() -> str:
     Returns:
         str: Rendered HTML for the main page.
     """
-    with open('data/storage.json', 'r') as f:
-        blog_posts = json.load(f)
+    blog_posts = open_file()
     return render_template('index.html', posts=blog_posts)
 
 
